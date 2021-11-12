@@ -1,0 +1,7 @@
+module ClibSASL {
+    header "../../Headers/ClibSASL-Bridging-Header.h"
+    /*header "/usr/local/include/xlsxwriter.h"*/
+    /*header "xlsxwriter.h"*/
+    link "sasl2"
+    export *
+}
