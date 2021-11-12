@@ -1,5 +1,0 @@
-module SASL [system] {
-  header "SASL.h"
-  link "sasl2"
-  export *
-}
